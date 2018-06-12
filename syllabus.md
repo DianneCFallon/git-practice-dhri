@@ -2,7 +2,7 @@
 
 ** HUM 201: Digital Storytelling
 
-Our class website, [York County Travels] (http://diannefallon.com)
+Our class website, [York County Travels](http://diannefallon.com)
 ## Readings
 *Broussard, Meredith. *Artificial Unintelligence: How Computers **Misunderstand** the World*. MIT Press, 2018. 
 ### Week 1
